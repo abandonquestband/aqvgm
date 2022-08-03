@@ -33,4 +33,4 @@ jobs:
       # (4)
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Commit the artifacts.¡
+          commit_message: Commit the artifacts
